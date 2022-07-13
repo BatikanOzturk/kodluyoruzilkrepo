@@ -2,7 +2,7 @@
 
 
 Bu repo [kodluyoruz](http://kodluyoruz.org) .Net-Core Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası,bir adet de index.html barındırıyor.
-![aciklama](\img\kodluyoruzpng.png)
+![aciklama](.\img\kodluyoruzpng.png)
 
 # Installation
 
